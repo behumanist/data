@@ -3662,9 +3662,9 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   .account-options {
     display: flex;
     width: 400px;
-    height: 100vh - 70px;
+    height: 100vh - 80px;
     position: fixed;
-    top: 70px;
+    top: 80px;
     bottom: 0px;
     right: 0px;
     z-index: 100;
@@ -3733,6 +3733,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   .account-options {
     width: 100%;
     height: 100vh - 70px;
+    top: 70px;
   }
 }
 
